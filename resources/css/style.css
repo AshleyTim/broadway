@@ -4,20 +4,18 @@ body {
 }
 
 .banner {
+  background-color: black;
   color: white;
-  background: black;
-  background-image: url('resources\images\header.png');
 }
-
-#title {
+.banner h1 {
   font-size: 70px;
   font-weight: bold;
 }
 
 .banner a {
-  display: block;
   font-size: 18px;
   color: white;
+  display: block;
 }
 
 h2 {
@@ -34,8 +32,22 @@ p {
   font-size: 14px;
 }
 
-#sub-banner h3 {
+#sub-banner {
   font-size: 23px;
   font-weight: bold;
+  color: white;
+  background-color: black;
+}
+
+.footer {
+  color: white;
+  background-color: dimgray;
+}
+
+.footer p {
+  font-size: 11px;
+}
+
+.footer a{
   color: white;
 }
