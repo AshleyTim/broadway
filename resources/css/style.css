@@ -4,8 +4,8 @@ body {
 }
 
 .banner {
-  background-color: black;
   color: white;
+  background-image: url("../images/header.png");
 }
 .banner h1 {
   font-size: 70px;
@@ -36,7 +36,7 @@ p {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-color: black;
+  background-image: url("../images/header.png");
 }
 
 .footer {
