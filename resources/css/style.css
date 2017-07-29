@@ -1,0 +1,41 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+.banner {
+  color: white;
+  background: black;
+  background-image: url('resources\images\header.png');
+}
+
+#title {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.banner a {
+  display: block;
+  font-size: 18px;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+#sub-banner h3 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
